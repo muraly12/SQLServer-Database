@@ -1,0 +1,6 @@
+C:\Users\Vicky Lucky\source\repos\Database3\Database3\bin\Debug\Database3.dacpac
+C:\Users\Vicky Lucky\source\repos\Database3\Database3\bin\Debug\Database3.dll
+C:\Users\Vicky Lucky\source\repos\Database3\Database3\bin\Debug\Database3.pdb
+C:\Users\Vicky Lucky\source\repos\Database3\Database3\obj\Debug\Database3.sqlproj.AssemblyReference.cache
+C:\Users\Vicky Lucky\source\repos\Database3\Database3\obj\Debug\Database3.dll
+C:\Users\Vicky Lucky\source\repos\Database3\Database3\obj\Debug\Database3.pdb
